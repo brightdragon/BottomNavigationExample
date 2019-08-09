@@ -12,7 +12,8 @@ add
 
 res  
 >add
->>Android Resource Directory -> navigation
+>>Android Resource Directory 
+>>>navigation
 
 layout  
 add -> fragment layout  
