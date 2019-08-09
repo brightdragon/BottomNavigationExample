@@ -10,13 +10,13 @@ add
 - 'androidx.navigation:navigation-ui-ktx:version'
 
 
-res  
->add
->>Android Resource Directory 
->>>navigation
+res add
+>Android Resource Directory 
+>navigation
 
-layout  
-add -> fragment layout  
+
+layout add
+>fragment layout  
 exmplae) fragment_first.xml, fragment_second.xml, fragment_third.xml  
   
 navigation
