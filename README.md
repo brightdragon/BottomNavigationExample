@@ -21,17 +21,4 @@ exmplae) fragment_first.xml, fragment_second.xml, fragment_third.xml
   
 navigation add
 >navigations xml file  
-example)  
-first.xml, second.xml, third.xml
-
-add  
-  <navigation  
-    ...  
-    app:startDestination="@id/screen_id" />  
-      
-  <fragment  
-    android:id=  
-    android:name=  
-    android:label=  
-   >  
-   </fragment>  
+example) first.xml, second.xml, third.xml
